@@ -1,4 +1,5 @@
-# geonex-utils
+# GEONEX-utils 
+If it helps you please give me a star or feedback
 
 Features :
 * Generate download list as needed
