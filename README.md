@@ -15,6 +15,7 @@ Dependencies:
 - tqdm
 - pyhdf
 - glob
+- regex
 
 File tree of example processing cases：
 
